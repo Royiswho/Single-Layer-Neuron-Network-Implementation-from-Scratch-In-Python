@@ -9,7 +9,7 @@
 
 The two formulas below are used in the code, where θ is the coefficient/ weight:
 
-<img src="media/formula2.png" width = "400" align="center">
+<img src="media/formula2.png" width = "800" align="center">
 
 ```
 # define a class as perceptron
